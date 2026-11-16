@@ -2,6 +2,10 @@
 
 Each entry is one version of this template. Breaking changes are listed first.
 
+## 1.20.1-1 (2026-11-16)
+
+- README: Deploy on Railway button for the published template `qdrant-3`. No change to the deployed service.
+
 ## 1.20.1 (2026-11-16)
 
 - First release: Qdrant v1.20.1 (`qdrant/qdrant:v1.20.1@sha256:d18c8e5061be3eaea2f53fbee1f0bf0382dc59cbb9b7112e41ffcc937ec14220`).
