@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/qdrant-3?utm_medium=integration&utm_source=button&utm_campaign=qdrant)
+
 # Qdrant on Railway
 
 One-click [Qdrant](https://qdrant.tech) vector database for Railway, built from the official image `qdrant/qdrant:v1.20.1` (pinned by digest in the [`Dockerfile`](Dockerfile)).
