@@ -2,6 +2,12 @@
 
 Each entry is one version of this template. Breaking changes are listed first.
 
+## 1.20.2 (2026-11-17)
+
+- No breaking changes. Collections and snapshots on the `/qdrant/data` volume are kept.
+- Qdrant [v1.20.2](https://github.com/qdrant/qdrant/releases/tag/v1.20.2): faster batch searches with a shared filter, HNSW graphs built with the classic algorithm again by default, and a cluster-join fix.
+- Image: `qdrant/qdrant:v1.20.2@sha256:d277592721d2e3b73f9b797b53cf05e6a5bb2134f6d13fdbda4ca51782afbcac`.
+
 ## 1.20.1-1 (2026-11-16)
 
 - README: Deploy on Railway button for the published template `qdrant-3`. No change to the deployed service.
